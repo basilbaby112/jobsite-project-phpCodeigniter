@@ -18,6 +18,7 @@
 
      <!-- MAIN CSS -->
      <link rel="stylesheet" href="<?php echo base_url();?>/css/style.css">
+     <link rel="stylesheet" href="<?php echo base_url();?>/css/temp.css">
 
 </head>
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
@@ -64,17 +65,28 @@
                          <li><a href="contact.html">Contact Us</a></li>
                          <!-- <li><a href="">Sign-In</a></li>
                          <li><a href="">Register</a></li>     -->
+                    
+                              
+                              
                     </ul>
-                    <form action="<?php echo base_url();?>registration">
-                         <button type="submit" class="btn btn-warning pull-right">Register</button>
-                    </form> 
-                    <form action="<?php echo base_url();?>login">
-                         <button type="submit" class="btn btn-primary pull-right">Login</button>
-                    </form>
                     
-                    
-                    
+                    <!-- <form action="<?php echo base_url();?>registration">
+                         <button type="submit" class="btn btn-warning">Register</button>
+                    </form>  -->
+
+                    <a href="<?php echo base_url();?>registration" class="btstyle section-btn btn btn-primary pull-right">Register</a>
+                    <a href="<?php echo base_url();?>login" class="btstyle section-btn btn btn-primary pull-right">Login</a>    
+
+                          <!-- padding: 9px 6px;
+                         margin-top: 12px;     -->
+                    <!-- <form action="<?php echo base_url();?>login">
+                         <button type="submit" class="btn btn-primary">Login</button>
+                    </form> -->
                </div>
+
+                              
+                                   
+                              
 
           </div>
           

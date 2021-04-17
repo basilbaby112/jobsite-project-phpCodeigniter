@@ -9,17 +9,17 @@
 			<div class="row justify-content-center">
                 <div class="form-group">
 					<form action="<?php echo base_url();?>login/loginCandidate">
-						<button class="form-control btn btn-primary submit px-3">candidates</button>
+						<button class="log_colour form-control btn btn-primary submit px-3">candidates</button>
 					</form>
             	</div>&nbsp;&nbsp;
                 <div class="form-group">
 					<form action="<?php echo base_url();?>login/loginEmployer">
-						<button Type="submit" class="form-control btn btn-primary submit px-3">Employers</button>
+						<button Type="submit" class="log_colour form-control btn btn-primary submit px-3">Employers</button>
 					</form>
                 </div>
 				<div class="col-md-12 col-lg-10">
 					<div class="wrap d-md-flex">
-						<div class="text-wrap p-4 p-lg-5 text-center d-flex align-items-center order-md-last">
+						<div class="log_colour text-wrap p-4 p-lg-5 text-center d-flex align-items-center order-md-last">
 							<div class="text w-100">
 								<h2>Welcome to login</h2>
 								<p>Don't have an account?</p>

@@ -1,0 +1,7 @@
+.log_colour{
+    border: 1px solid #29ca8e !important;
+    color: #fff !important;
+    background:linear-gradient(135deg, #29ca8e 0%, #29ca8e 100%)
+    !important;
+}
+
