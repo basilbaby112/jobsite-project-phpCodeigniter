@@ -6,10 +6,10 @@
                     <div class="col-md-4 col-sm-6">
                          <div class="footer-info">
                               <div class="section-title">
-                                   <h2>Headquarter</h2>
+                                   <h2>Office Address</h2>
                               </div>
                               <address>
-                                   <p>212 Barrington Court <br>New York, ABC 10001</p>
+                                   <p>212 Address Line 1 <br>Work city, ABC 100001</p>
                               </address>
 
                               <ul class="social-icon">
@@ -19,8 +19,8 @@
                               </ul>
 
                               <div class="copyright-text"> 
-                                   <p>Copyright &copy; 2020 Company Name</p>
-                                   <p>Template by: <a href="https://www.phpjabbers.com/">PHPJabbers.com</a></p>
+                                   <p>Copyright &copy; 2020 Job4U</p>
+                                   <p>Created by: <a href="">Job4U.com</a></p>
                               </div>
                          </div>
                     </div>
@@ -28,11 +28,11 @@
                     <div class="col-md-4 col-sm-6">
                          <div class="footer-info">
                               <div class="section-title">
-                                   <h2>Contact Info</h2>
+                                   <h2>Contact Us</h2>
                               </div>
                               <address>
-                                   <p>+1 333 4040 5566</p>
-                                   <p><a href="mailto:contact@company.com">contact@company.com</a></p>
+                                   <p>+ 333 4040 5566</p>
+                                   <p><a href="mailto:contact@company.com">contact@job4u.com</a></p>
                               </address>
 
                               <div class="footer_menu">
